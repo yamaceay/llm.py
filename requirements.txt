@@ -7,3 +7,4 @@ docarray
 wikipedia
 langchain-openai
 langchain-community
+numexpr
