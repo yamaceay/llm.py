@@ -6,3 +6,4 @@ tiktoken
 docarray
 wikipedia
 langchain-openai
+langchain-community
